@@ -1,4 +1,3 @@
-
 <?php require_once('partial/hearder.php'); ?>
     <div class="container p-4 ">
         <form action="create_fruit_model.php" method="post" style="height:60vh" enctype="multipart/form-data" >
